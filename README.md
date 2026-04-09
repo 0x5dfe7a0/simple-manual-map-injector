@@ -7,4 +7,4 @@ features:
 - section protection fixup after mapping
 - header + shellcode wipe post injection
 
-this is mainly used to load your usermode payload etc inside another process like notepad.exe or obs64.exe this approach is not recommended for injecting into anti cheat protected games
+this is mainly used to load your usermode payload etc inside another process like notepad.exe or obs64.exe this approach is not recommended for injecting into anti cheat protected games and most likely wont work
